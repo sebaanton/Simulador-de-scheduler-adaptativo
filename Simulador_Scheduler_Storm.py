@@ -1,7 +1,5 @@
 import time
 import numpy as np
-import matplotlib.pyplot as plt
-from sklearn import linear_model
 from scipy import stats
 
 class Nodo:
